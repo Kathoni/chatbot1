@@ -52,3 +52,30 @@ The script uses a `while` loop to continuously take user input and responds base
 
 ```bash
 python index.py
+ 
+
+```markdown
+##
+### Option 2: Replit
+
+[![Run on Repl.it](https://repl.it/badge/github/your-username/CryptoBuddy)](https://repl.it/github/your-username/CryptoBuddy)
+
+---
+
+## 🖼️ Screenshots
+
+Here are some sample interactions with CryptoBuddy:
+
+![CryptoBuddy - Sustainable Coin](images/sustainable.png)
+*Asks for the most sustainable coin*
+
+---
+
+![CryptoBuddy - Trending Coin](images/trending.png)
+*Asks which coin is trending*
+
+---
+
+![CryptoBuddy - Long Term Coin](longterm.png)
+*Asks about long-term investment options*
+```
