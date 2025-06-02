@@ -54,14 +54,6 @@ The script uses a `while` loop to continuously take user input and responds base
 python index.py
  
 
-```markdown
-##
-### Option 2: Replit
-
-[![Run on Repl.it](https://repl.it/badge/github/your-username/CryptoBuddy)](https://repl.it/github/your-username/CryptoBuddy)
-
----
-
 ## 🖼️ Screenshots
 
 Here are some sample interactions with CryptoBuddy:
