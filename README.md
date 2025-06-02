@@ -51,4 +51,4 @@ The script uses a `while` loop to continuously take user input and responds base
 3. Open a terminal and run the file:
 
 ```bash
-python cryptobuddy.py
+python index.py
