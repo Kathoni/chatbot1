@@ -48,11 +48,7 @@ The script uses a `while` loop to continuously take user input and responds base
 
 1. Make sure you have Python 3.x installed.
 2. Clone or download this repository.
-3. Open a terminal and run the file:
 
-```bash
-python index.py
- 
 
 ## 🖼️ Screenshots
 
