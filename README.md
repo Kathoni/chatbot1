@@ -54,12 +54,12 @@ The script uses a `while` loop to continuously take user input and responds base
 
 Here are some sample interactions with CryptoBuddy:
 
-![CryptoBuddy - Sustainable Coin](images/sustainable.png)
+![CryptoBuddy - Sustainable Coin](sustainable.png)
 *Asks for the most sustainable coin*
 
 ---
 
-![CryptoBuddy - Trending Coin](images/trending.png)
+![CryptoBuddy - Trending Coin](trending.png)
 *Asks which coin is trending*
 
 ---
