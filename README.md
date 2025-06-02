@@ -48,6 +48,8 @@ The script uses a `while` loop to continuously take user input and responds base
 
 1. Make sure you have Python 3.x installed.
 2. Clone or download this repository.
+3. Navigate to the project directory in your terminal/command prompt.
+4. Run `python index.py` to start the chatbot.
 
 
 ## 🖼️ Screenshots
