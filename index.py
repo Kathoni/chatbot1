@@ -58,5 +58,4 @@ while True:
         print("⚠️ Oops! Input isn’t supported in this environment. Please run this in a local IDE like VSCode or Jupyter.")
         break
 
-# Step 4: Disclaimer
 print("\n⚠️ Disclaimer: Crypto is risky—always DYOR (Do Your Own Research)! \U0001F9E0\U0001F4C9")
